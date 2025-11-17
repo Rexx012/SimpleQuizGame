@@ -1,5 +1,5 @@
-import Header from './components/header';
-import QuestionCard from './components/questionCard';
+import Header from './components/Header';
+import QuestionCard from './components/QuestionCard';
 import { useState } from 'react';
 import ScoreCard from './components/ScoreCard';
 import questions from './utils/question.js';

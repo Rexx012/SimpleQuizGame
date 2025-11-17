@@ -1,4 +1,4 @@
-const questionCard = ({
+const QuestionCard = ({
   currentQuestion,
   handleAnswerOptionClick,
   questionIndex,
@@ -23,4 +23,4 @@ const questionCard = ({
   );
 };
 
-export default questionCard;
+export default QuestionCard;
